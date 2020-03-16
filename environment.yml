@@ -1,0 +1,10 @@
+name: demo
+channels:
+  - conda-forge
+dependencies:
+  - librosa
+  - scipy
+  - jupyter
+  - ipython
+  - numpy
+  - matplotlib
