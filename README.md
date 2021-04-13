@@ -10,5 +10,5 @@ If you would like to run the demo on your own machine, this is the conda environ
 conda create -n demo python=3
 conda activate demo
 conda install -c conda-forge librosa
-conda install -n demo scipy jupyter ipython numpy matplotlib
+conda install -n demo scipy jupyter ipython numpy matplotlib numba==0.48
 ```
